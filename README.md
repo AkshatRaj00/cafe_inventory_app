@@ -1,4 +1,8 @@
+# Cafe Inventory App
+Flutter + Supabase Daily Report System
+Android APK + iOS IPA Ready!
 # cafe_inventory_app
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +18,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+CLOUD iOS SERVICES (NO MAC NEEDED
+>>>>>>> a4612f0681c546bad3dc2dd74bbbd147b51b3930
